@@ -8,7 +8,7 @@
             <article class="post-item">
                 <div class="post-item-image">
                     <a href="post.html">
-                        <img src="/img/Post_Image_1.jpg" alt="">
+                        <img src="/img/img1.jpg" alt="">
                     </a>
                 </div>
                 <div class="post-item-body">
@@ -35,7 +35,7 @@
             <article class="post-item">
                 <div class="post-item-image">
                     <a href="post.html">
-                        <img src="/img/Post_Image_2.jpg" alt="">
+                        <img src="/img/img4.jpg" alt="">
                     </a>
                 </div>
                 <div class="post-item-body">
@@ -62,7 +62,7 @@
             <article class="post-item">
                 <div class="post-item-image">
                     <a href="post.html">
-                        <img src="/img/Post_Image_3.jpg" alt="">
+                        <img src="/img/img2.jpg" alt="">
                     </a>
                 </div>
                 <div class="post-item-body">
