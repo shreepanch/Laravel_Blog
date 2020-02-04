@@ -28,8 +28,10 @@
             <div class="collapse navbar-collapse" id="the-navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#">Blog</a></li>
+                <li><a href="#">Home</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
+                <li><a href="#">Projects</a></li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container -->
@@ -49,6 +51,7 @@
                 <div class="col-md-4">
                     <nav>
                         <ul class="social-icons">
+                            <li><a href="https://www.instagram.com/" class="i fa fa-instagram"></a></li>
                             <li><a href="#" class="i fa fa-facebook"></a></li>
                             <li><a href="#" class="i fa fa-twitter"></a></li>
                             <li><a href="#" class="i fa fa-google-plus"></a></li>
